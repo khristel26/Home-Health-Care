@@ -1,0 +1,154 @@
+Payment group,Description,"Clinical, Functional, and Service Levels",2013 HH PPS Case-Mix Weights,2014 Final HH PPS Case-Mix Weights
+10111,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C1F1S1,0.8186,0.6080
+10112,"1st and 2nd Episodes, 6 Therapy Visits",C1F1S2,0.9793,0.7273
+10113,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C1F1S3,1.1401,0.8468
+10114,"1st and 2nd Episodes, 10 Therapy Visits",C1F1S4,1.3008,0.9661
+10115,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C1F1S5,1.4616,1.0856
+10121,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C1F2S1,1.0275,0.7631
+10122,"1st and 2nd Episodes, 6 Therapy Visits",C1F2S2,1.1657,0.8658
+10123,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C1F2S3,1.3039,0.9684
+10124,"1st and 2nd Episodes, 10 Therapy Visits",C1F2S4,1.4421,1.0711
+10125,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C1F2S5,1.5804,1.1738
+10131,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C1F3S1,1.1233,0.8343
+10132,"1st and 2nd Episodes, 6 Therapy Visits",C1F3S2,1.2520,0.9299
+10133,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C1F3S3,1.3807,1.0255
+10134,"1st and 2nd Episodes, 10 Therapy Visits",C1F3S4,1.5094,1.1211
+10135,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C1F3S5,1.6381,1.2167
+10211,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C2F1S1,0.8340,0.6194
+10212,"1st and 2nd Episodes, 6 Therapy Visits",C2F1S2,1.0302,0.7652
+10213,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C2F1S3,1.2265,0.9109
+10214,"1st and 2nd Episodes, 10 Therapy Visits",C2F1S4,1.4228,1.0567
+10215,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C2F1S5,1.6190,1.2025
+10221,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C2F2S1,1.0429,0.7746
+10222,"1st and 2nd Episodes, 6 Therapy Visits",C2F2S2,1.2166,0.9036
+10223,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C2F2S3,1.3903,1.0326
+10224,"1st and 2nd Episodes, 10 Therapy Visits",C2F2S4,1.5641,1.1617
+10225,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C2F2S5,1.7378,1.2907
+10231,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C2F3S1,1.1387,0.8457
+10232,"1st and 2nd Episodes, 6 Therapy Visits",C2F3S2,1.3029,0.9677
+10233,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C2F3S3,1.4671,1.0896
+10234,"1st and 2nd Episodes, 10 Therapy Visits",C2F3S4,1.6313,1.2116
+10235,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C2F3S5,1.7956,1.3336
+10311,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C3F1S1,0.9071,0.6737
+10312,"1st and 2nd Episodes, 6 Therapy Visits",C3F1S2,1.1348,0.8428
+10313,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C3F1S3,1.3624,1.0119
+10314,"1st and 2nd Episodes, 10 Therapy Visits",C3F1S4,1.5900,1.1809
+10315,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C3F1S5,1.8177,1.3500
+10321,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C3F2S1,1.1160,0.8289
+10322,"1st and 2nd Episodes, 6 Therapy Visits",C3F2S2,1.3211,0.9812
+10323,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C3F2S3,1.5262,1.1335
+10324,"1st and 2nd Episodes, 10 Therapy Visits",C3F2S4,1.7313,1.2859
+10325,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C3F2S5,1.9364,1.4382
+10331,"1st and 2nd Episodes, 0 to 5 Therapy Visits",C3F3S1,1.2118,0.9000
+10332,"1st and 2nd Episodes, 6 Therapy Visits",C3F3S2,1.4074,1.0453
+10333,"1st and 2nd Episodes, 7 to 9 Therapy Visits",C3F3S3,1.6030,1.1906
+10334,"1st and 2nd Episodes, 10 Therapy Visits",C3F3S4,1.7986,1.3359
+10335,"1st and 2nd Episodes, 11 to 13 Therapy Visits",C3F3S5,1.9942,1.4811
+21111,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C1F1S1,1.6223,1.2049
+21112,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C1F1S2,1.8331,1.3615
+21113,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C1F1S3,2.0438,1.5180
+21121,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C1F2S1,1.7186,1.2764
+21122,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C1F2S2,1.9496,1.4480
+21123,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C1F2S3,2.1807,1.6197
+21131,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C1F3S1,1.7668,1.3122
+21132,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C1F3S2,2.0252,1.5042
+21133,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C1F3S3,2.2836,1.6961
+21211,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C2F1S1,1.8153,1.3483
+21212,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C2F1S2,2.0224,1.5021
+21213,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C2F1S3,2.2294,1.6558
+21221,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C2F2S1,1.9116,1.4198
+21222,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C2F2S2,2.1389,1.5886
+21223,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C2F2S3,2.3663,1.7575
+21231,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C2F3S1,1.9598,1.4556
+21232,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C2F3S2,2.2145,1.6448
+21233,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C2F3S3,2.4691,1.8339
+21311,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C3F1S1,2.0453,1.5191
+21312,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C3F1S2,2.2682,1.6846
+21313,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C3F1S3,2.4911,1.8502
+21321,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C3F2S1,2.1415,1.5905
+21322,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C3F2S2,2.3848,1.7712
+21323,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C3F2S3,2.6280,1.9519
+21331,"1st and 2nd Episodes, 14 to 15 Therapy Visits",C3F3S1,2.1897,1.6263
+21332,"1st and 2nd Episodes, 16 to 17 Therapy Visits",C3F3S2,2.4603,1.8273
+21333,"1st and 2nd Episodes, 18 to 19 Therapy Visits",C3F3S3,2.7309,2.0283
+22111,"3rd+ Episodes, 14 to 15 Therapy Visits",C1F1S1,1.6822,1.2494
+22112,"3rd+ Episodes, 16 to 17 Therapy Visits",C1F1S2,1.8730,1.3911
+22113,"3rd+ Episodes, 18 to 19 Therapy Visits",C1F1S3,2.0638,1.5328
+22121,"3rd+ Episodes, 14 to 15 Therapy Visits",C1F2S1,1.7628,1.3093
+22122,"3rd+ Episodes, 16 to 17 Therapy Visits",C1F2S2,1.9791,1.4699
+22123,"3rd+ Episodes, 18 to 19 Therapy Visits",C1F2S3,2.1954,1.6306
+22131,"3rd+ Episodes, 14 to 15 Therapy Visits",C1F3S1,1.9247,1.4295
+22132,"3rd+ Episodes, 16 to 17 Therapy Visits",C1F3S2,2.1305,1.5824
+22133,"3rd+ Episodes, 18 to 19 Therapy Visits",C1F3S3,2.3362,1.7351
+22211,"3rd+ Episodes, 14 to 15 Therapy Visits",C2F1S1,1.8508,1.3746
+22212,"3rd+ Episodes, 16 to 17 Therapy Visits",C2F1S2,2.0460,1.5196
+22213,"3rd+ Episodes, 18 to 19 Therapy Visits",C2F1S3,2.2412,1.6646
+22221,"3rd+ Episodes, 14 to 15 Therapy Visits",C2F2S1,1.9314,1.4345
+22222,"3rd+ Episodes, 16 to 17 Therapy Visits",C2F2S2,2.1521,1.5984
+22223,"3rd+ Episodes, 18 to 19 Therapy Visits",C2F2S3,2.3729,1.7624
+22231,"3rd+ Episodes, 14 to 15 Therapy Visits",C2F3S1,2.0933,1.5547
+22232,"3rd+ Episodes, 16 to 17 Therapy Visits",C2F3S2,2.3035,1.7109
+22233,"3rd+ Episodes, 18 to 19 Therapy Visits",C2F3S3,2.5136,1.8669
+22311,"3rd+ Episodes, 14 to 15 Therapy Visits",C3F1S1,2.0747,1.5409
+22312,"3rd+ Episodes, 16 to 17 Therapy Visits",C3F1S2,2.2878,1.6992
+22313,"3rd+ Episodes, 18 to 19 Therapy Visits",C3F1S3,2.5009,1.8575
+22321,"3rd+ Episodes, 14 to 15 Therapy Visits",C3F2S1,2.1553,1.6008
+22322,"3rd+ Episodes, 16 to 17 Therapy Visits",C3F2S2,2.3940,1.7781
+22323,"3rd+ Episodes, 18 to 19 Therapy Visits",C3F2S3,2.6326,1.9553
+22331,"3rd+ Episodes, 14 to 15 Therapy Visits",C3F3S1,2.3172,1.7210
+22332,"3rd+ Episodes, 16 to 17 Therapy Visits",C3F3S2,2.5453,1.8904
+22333,"3rd+ Episodes, 18 to 19 Therapy Visits",C3F3S3,2.7734,2.0599
+30111,"3rd+ Episodes, 0 to 5 Therapy Visits",C1F1S1,0.6692,0.4970
+30112,"3rd+ Episodes, 6 Therapy Visits",C1F1S2,0.8718,0.6475
+30113,"3rd+ Episodes, 7 to 9 Therapy Visits",C1F1S3,1.0744,0.7980
+30114,"3rd+ Episodes, 10 Therapy Visits",C1F1S4,1.2770,0.9485
+30115,"3rd+ Episodes, 11 to 13 Therapy Visits",C1F1S5,1.4796,1.0989
+30121,"3rd+ Episodes, 0 to 5 Therapy Visits",C1F2S1,0.8421,0.6254
+30122,"3rd+ Episodes, 6 Therapy Visits",C1F2S2,1.0263,0.7623
+30123,"3rd+ Episodes, 7 to 9 Therapy Visits",C1F2S3,1.2104,0.8990
+30124,"3rd+ Episodes, 10 Therapy Visits",C1F2S4,1.3945,1.0357
+30125,"3rd+ Episodes, 11 to 13 Therapy Visits",C1F2S5,1.5787,1.1725
+30131,"3rd+ Episodes, 0 to 5 Therapy Visits",C1F3S1,0.9352,0.6946
+30132,"3rd+ Episodes, 6 Therapy Visits",C1F3S2,1.1331,0.8416
+30133,"3rd+ Episodes, 7 to 9 Therapy Visits",C1F3S3,1.3310,0.9886
+30134,"3rd+ Episodes, 10 Therapy Visits",C1F3S4,1.5289,1.1355
+30135,"3rd+ Episodes, 11 to 13 Therapy Visits",C1F3S5,1.7268,1.2825
+30211,"3rd+ Episodes, 0 to 5 Therapy Visits",C2F1S1,0.7361,0.5467
+30212,"3rd+ Episodes, 6 Therapy Visits",C2F1S2,0.9591,0.7123
+30213,"3rd+ Episodes, 7 to 9 Therapy Visits",C2F1S3,1.1820,0.8779
+30214,"3rd+ Episodes, 10 Therapy Visits",C2F1S4,1.4049,1.0434
+30215,"3rd+ Episodes, 11 to 13 Therapy Visits",C2F1S5,1.6278,1.2090
+30221,"3rd+ Episodes, 0 to 5 Therapy Visits",C2F2S1,0.9091,0.6752
+30222,"3rd+ Episodes, 6 Therapy Visits",C2F2S2,1.1136,0.8271
+30223,"3rd+ Episodes, 7 to 9 Therapy Visits",C2F2S3,1.3180,0.9789
+30224,"3rd+ Episodes, 10 Therapy Visits",C2F2S4,1.5225,1.1308
+30225,"3rd+ Episodes, 11 to 13 Therapy Visits",C2F2S5,1.7269,1.2826
+30231,"3rd+ Episodes, 0 to 5 Therapy Visits",C2F3S1,1.0022,0.7444
+30232,"3rd+ Episodes, 6 Therapy Visits",C2F3S2,1.2204,0.9064
+30233,"3rd+ Episodes, 7 to 9 Therapy Visits",C2F3S3,1.4386,1.0685
+30234,"3rd+ Episodes, 10 Therapy Visits",C2F3S4,1.6568,1.2305
+30235,"3rd+ Episodes, 11 to 13 Therapy Visits",C2F3S5,1.8751,1.3927
+30311,"3rd+ Episodes, 0 to 5 Therapy Visits",C3F1S1,0.9324,0.6925
+30312,"3rd+ Episodes, 6 Therapy Visits",C3F1S2,1.1609,0.8622
+30313,"3rd+ Episodes, 7 to 9 Therapy Visits",C3F1S3,1.3893,1.0319
+30314,"3rd+ Episodes, 10 Therapy Visits",C3F1S4,1.6178,1.2016
+30315,"3rd+ Episodes, 11 to 13 Therapy Visits",C3F1S5,1.8463,1.3713
+30321,"3rd+ Episodes, 0 to 5 Therapy Visits",C3F2S1,1.1054,0.8210
+30322,"3rd+ Episodes, 6 Therapy Visits",C3F2S2,1.3154,0.9770
+30323,"3rd+ Episodes, 7 to 9 Therapy Visits",C3F2S3,1.5254,1.1329
+30324,"3rd+ Episodes, 10 Therapy Visits",C3F2S4,1.7353,1.2888
+30325,"3rd+ Episodes, 11 to 13 Therapy Visits",C3F2S5,1.9453,1.4448
+30331,"3rd+ Episodes, 0 to 5 Therapy Visits",C3F3S1,1.1985,0.8902
+30332,"3rd+ Episodes, 6 Therapy Visits",C3F3S2,1.4222,1.0563
+30333,"3rd+ Episodes, 7 to 9 Therapy Visits",C3F3S3,1.6460,1.2225
+30334,"3rd+ Episodes, 10 Therapy Visits",C3F3S4,1.8697,1.3887
+30335,"3rd+ Episodes, 11 to 13 Therapy Visits",C3F3S5,2.0935,1.5549
+40111,"All Episodes, 20+ Therapy Visits ",C1F1S1,2.2546,1.6745
+40121,"All Episodes, 20+ Therapy Visits ",C1F2S1,2.4117,1.7912
+40131,"All Episodes, 20+ Therapy Visits ",C1F3S1,2.5419,1.8879
+40211,"All Episodes, 20+ Therapy Visits ",C2F1S1,2.4364,1.8096
+40221,"All Episodes, 20+ Therapy Visits ",C2F2S1,2.5936,1.9263
+40231,"All Episodes, 20+ Therapy Visits ",C2F3S1,2.7238,2.0230
+40311,"All Episodes, 20+ Therapy Visits ",C3F1S1,2.7140,2.0157
+40321,"All Episodes, 20+ Therapy Visits ",C3F2S1,2.8712,2.1325
+40331,"All Episodes, 20+ Therapy Visits ",C3F3S1,3.0014,2.2292
