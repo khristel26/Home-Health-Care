@@ -2,11 +2,7 @@
 title: "30535 Applied Problem Set 2"
 author: "Khristel Zavaleta"
 date: "5/3/2022"
-output: 
-  pdf_document:
-    number_sections: yes
-  html_document:
-    df_print: paged
+output: md_document
 urlcolor: blue
 ---
 
